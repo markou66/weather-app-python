@@ -19,7 +19,8 @@ O projeto consiste em um script Python que consome dados climáticos em tempo re
 1. ## Clonar o Repositório:
    Primeiro, clone este repositório para a sua máquina local:
    ```
-   git clone [https://github.com/markou66/weather-app-python.git](https://github.com/markou66/weather-app-python.git)
+   git clone https://github.com/markou66/weather-app-python.git
+   
    cd weather-app-python
 
 2. ## Dependências:
