@@ -34,4 +34,4 @@ O projeto consiste em um script Python que consome dados climáticos em tempo re
 ## Demonstração: 
 
 Aqui está o sistema em funcionamento no terminal:
-[Ver demonstração do projeto](https://github.com/markou66/weather-app-python/raw/main/demo.mp4)
+![Demo](demo.gif)
