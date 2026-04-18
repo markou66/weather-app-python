@@ -16,17 +16,23 @@ O projeto consiste em um script Python que consome dados climáticos em tempo re
 
 ## Requisitos e Instalação
 
-1. **Dependências:**
+1. ## Clonar o Repositório:
+   Primeiro, clone este repositório para a sua máquina local:
+   ```
+   git clone [https://github.com/markou66/weather-app-python.git](https://github.com/markou66/weather-app-python.git)
+   cd weather-app-python
+
+2. ## Dependências:
    Instale as bibliotecas necessárias através do arquivo de requisitos:
    ```bash
    pip install -r requirements.txt
 
-2. ## Configuração da API:
+3. ## Configuração da API:
    Renomeie o arquivo .env.example para .env e insira sua chave da API OpenWeather
    ```
    API_KEY=seu_token_aqui
 
-3. ## Execução:
+4. ## Execução:
    ```
    python weather.py
 ---
